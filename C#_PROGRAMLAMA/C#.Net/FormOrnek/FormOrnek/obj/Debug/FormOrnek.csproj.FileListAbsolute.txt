@@ -1,0 +1,10 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\FormOrnek\FormOrnek\bin\Debug\FormOrnek.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\FormOrnek\FormOrnek\bin\Debug\FormOrnek.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\FormOrnek\FormOrnek\bin\Debug\FormOrnek.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\FormOrnek\FormOrnek\obj\Debug\FormOrnek.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\FormOrnek\FormOrnek\obj\Debug\FormOrnek.Form1.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\FormOrnek\FormOrnek\obj\Debug\FormOrnek.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\FormOrnek\FormOrnek\obj\Debug\FormOrnek.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\FormOrnek\FormOrnek\obj\Debug\FormOrnek.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\FormOrnek\FormOrnek\obj\Debug\FormOrnek.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\FormOrnek\FormOrnek\obj\Debug\FormOrnek.pdb

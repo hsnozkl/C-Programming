@@ -1,0 +1,7 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C17\C17\bin\Debug\C17.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C17\C17\bin\Debug\C17.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C17\C17\bin\Debug\C17.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C17\C17\obj\Debug\C17.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C17\C17\obj\Debug\C17.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C17\C17\obj\Debug\C17.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C17\C17\obj\Debug\C17.pdb

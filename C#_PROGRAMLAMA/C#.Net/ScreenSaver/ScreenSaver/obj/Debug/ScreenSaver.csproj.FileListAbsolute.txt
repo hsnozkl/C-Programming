@@ -1,0 +1,10 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.frmScSaver.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.pdb

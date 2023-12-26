@@ -1,0 +1,10 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\LabirentOyunu\Labirent\Labirent\obj\Debug\Labirent.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\LabirentOyunu\Labirent\Labirent\obj\Debug\Labirent.Form1.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\LabirentOyunu\Labirent\Labirent\obj\Debug\Labirent.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\LabirentOyunu\Labirent\Labirent\obj\Debug\Labirent.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\LabirentOyunu\Labirent\Labirent\obj\Debug\Labirent.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\LabirentOyunu\Labirent\Labirent\bin\Debug\Labirent.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\LabirentOyunu\Labirent\Labirent\bin\Debug\Labirent.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\LabirentOyunu\Labirent\Labirent\bin\Debug\Labirent.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\LabirentOyunu\Labirent\Labirent\obj\Debug\Labirent.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\LabirentOyunu\Labirent\Labirent\obj\Debug\Labirent.pdb

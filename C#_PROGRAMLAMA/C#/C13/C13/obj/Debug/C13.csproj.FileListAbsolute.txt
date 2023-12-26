@@ -1,0 +1,7 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C13\C13\bin\Debug\C13.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C13\C13\bin\Debug\C13.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C13\C13\bin\Debug\C13.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C13\C13\obj\Debug\C13.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C13\C13\obj\Debug\C13.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C13\C13\obj\Debug\C13.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C13\C13\obj\Debug\C13.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C27\C27\bin\Debug\C27.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C27\C27\bin\Debug\C27.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C27\C27\bin\Debug\C27.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C27\C27\obj\Debug\C27.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C27\C27\obj\Debug\C27.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C27\C27\obj\Debug\C27.pdb

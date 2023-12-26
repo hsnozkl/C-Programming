@@ -1,0 +1,7 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C14\C14\bin\Debug\C14.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C14\C14\bin\Debug\C14.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C14\C14\bin\Debug\C14.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C14\C14\obj\Debug\C14.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C14\C14\obj\Debug\C14.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C14\C14\obj\Debug\C14.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C14\C14\obj\Debug\C14.pdb

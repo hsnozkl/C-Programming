@@ -1,0 +1,6 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C10\C10\obj\Debug\C10.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C10\C10\bin\Debug\C10.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C10\C10\bin\Debug\C10.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C10\C10\bin\Debug\C10.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C10\C10\obj\Debug\C10.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C10\C10\obj\Debug\C10.pdb

@@ -1,0 +1,10 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP2\OOP2\obj\Debug\OOP2.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP2\OOP2\obj\Debug\OOP2.Form1.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP2\OOP2\obj\Debug\OOP2.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP2\OOP2\obj\Debug\OOP2.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP2\OOP2\obj\Debug\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP2\OOP2\bin\Debug\OOP2.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP2\OOP2\bin\Debug\OOP2.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP2\OOP2\bin\Debug\OOP2.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP2\OOP2\obj\Debug\OOP2.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP2\OOP2\obj\Debug\OOP2.pdb

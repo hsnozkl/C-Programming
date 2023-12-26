@@ -1,0 +1,7 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C11\C11\bin\Debug\C11.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C11\C11\bin\Debug\C11.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C11\C11\bin\Debug\C11.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C11\C11\obj\Debug\C11.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C11\C11\obj\Debug\C11.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C11\C11\obj\Debug\C11.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C11\C11\obj\Debug\C11.pdb

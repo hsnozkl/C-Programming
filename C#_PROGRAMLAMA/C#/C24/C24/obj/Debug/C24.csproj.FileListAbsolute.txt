@@ -1,0 +1,7 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C24\C24\bin\Debug\C24.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C24\C24\bin\Debug\C24.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C24\C24\bin\Debug\C24.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C24\C24\obj\Debug\C24.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C24\C24\obj\Debug\C24.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C24\C24\obj\Debug\C24.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C24\C24\obj\Debug\C24.pdb

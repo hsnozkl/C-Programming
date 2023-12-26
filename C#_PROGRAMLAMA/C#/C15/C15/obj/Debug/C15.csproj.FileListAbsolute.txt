@@ -1,0 +1,6 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C15\C15\bin\Debug\C15.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C15\C15\bin\Debug\C15.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C15\C15\bin\Debug\C15.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C15\C15\obj\Debug\C15.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C15\C15\obj\Debug\C15.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C15\C15\obj\Debug\C15.pdb

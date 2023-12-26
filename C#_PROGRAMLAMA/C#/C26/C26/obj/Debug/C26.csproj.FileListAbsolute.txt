@@ -1,0 +1,6 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C26\C26\bin\Debug\C26.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C26\C26\bin\Debug\C26.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C26\C26\bin\Debug\C26.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C26\C26\obj\Debug\C26.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C26\C26\obj\Debug\C26.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C26\C26\obj\Debug\C26.pdb

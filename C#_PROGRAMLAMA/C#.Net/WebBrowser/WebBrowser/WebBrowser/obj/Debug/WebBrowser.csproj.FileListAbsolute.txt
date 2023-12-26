@@ -1,0 +1,10 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\WebBrowser\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\WebBrowser\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\WebBrowser\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\WebBrowser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\WebBrowser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.frmMain.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\WebBrowser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\WebBrowser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\WebBrowser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\WebBrowser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\WebBrowser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb

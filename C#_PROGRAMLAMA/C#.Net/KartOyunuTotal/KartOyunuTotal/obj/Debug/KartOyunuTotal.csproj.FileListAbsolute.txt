@@ -1,0 +1,9 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\KartOyunuTotal\KartOyunuTotal\bin\Debug\KartOyunuTotal.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\KartOyunuTotal\KartOyunuTotal\bin\Debug\KartOyunuTotal.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\KartOyunuTotal\KartOyunuTotal\bin\Debug\KartOyunuTotal.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\KartOyunuTotal\KartOyunuTotal\obj\Debug\KartOyunuTotal.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\KartOyunuTotal\KartOyunuTotal\obj\Debug\KartOyunuTotal.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\KartOyunuTotal\KartOyunuTotal\obj\Debug\KartOyunuTotal.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\KartOyunuTotal\KartOyunuTotal\obj\Debug\KartOyunuTotal.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\KartOyunuTotal\KartOyunuTotal\obj\Debug\KartOyunuTotal.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\KartOyunuTotal\KartOyunuTotal\obj\Debug\KartOyunuTotal.pdb

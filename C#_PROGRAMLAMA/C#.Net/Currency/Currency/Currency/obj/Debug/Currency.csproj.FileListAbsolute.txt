@@ -1,0 +1,10 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\Currency\Currency\Currency\bin\Debug\Currency.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\Currency\Currency\Currency\bin\Debug\Currency.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\Currency\Currency\Currency\bin\Debug\Currency.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\Currency\Currency\Currency\obj\Debug\Currency.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\Currency\Currency\Currency\obj\Debug\Currency.Currency.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\Currency\Currency\Currency\obj\Debug\Currency.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\Currency\Currency\Currency\obj\Debug\Currency.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\Currency\Currency\Currency\obj\Debug\Currency.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\Currency\Currency\Currency\obj\Debug\Currency.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\Currency\Currency\Currency\obj\Debug\Currency.pdb

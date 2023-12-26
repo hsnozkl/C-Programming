@@ -1,0 +1,7 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C29\C29\bin\Debug\C29.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C29\C29\bin\Debug\C29.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C29\C29\bin\Debug\C29.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C29\C29\obj\Debug\C29.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C29\C29\obj\Debug\C29.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C29\C29\obj\Debug\C29.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C29\C29\obj\Debug\C29.pdb

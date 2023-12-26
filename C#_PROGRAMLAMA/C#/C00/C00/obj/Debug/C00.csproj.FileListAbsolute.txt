@@ -1,0 +1,7 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C00\C00\obj\Debug\C00.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C00\C00\obj\Debug\C00.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C00\C00\bin\Debug\C00.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C00\C00\bin\Debug\C00.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C00\C00\bin\Debug\C00.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C00\C00\obj\Debug\C00.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C00\C00\obj\Debug\C00.pdb

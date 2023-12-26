@@ -1,0 +1,10 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\GeriyeSayim\GeriyeSayim\bin\Debug\GeriyeSayim.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\GeriyeSayim\GeriyeSayim\bin\Debug\GeriyeSayim.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\GeriyeSayim\GeriyeSayim\bin\Debug\GeriyeSayim.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\GeriyeSayim\GeriyeSayim\obj\Debug\GeriyeSayim.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\GeriyeSayim\GeriyeSayim\obj\Debug\GeriyeSayim.Form1.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\GeriyeSayim\GeriyeSayim\obj\Debug\GeriyeSayim.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\GeriyeSayim\GeriyeSayim\obj\Debug\GeriyeSayim.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\GeriyeSayim\GeriyeSayim\obj\Debug\GeriyeSayim.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\GeriyeSayim\GeriyeSayim\obj\Debug\GeriyeSayim.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\GeriyeSayim\GeriyeSayim\obj\Debug\GeriyeSayim.pdb

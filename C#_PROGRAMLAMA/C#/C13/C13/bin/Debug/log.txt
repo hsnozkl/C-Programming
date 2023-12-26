@@ -1,0 +1,4 @@
+hasan
+09.11.2023 14:34
+böyle sayi mi olur@   konum: C13.Program.Loglama() C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C13\C13\Program.cs içinde: satır 29
+*********************

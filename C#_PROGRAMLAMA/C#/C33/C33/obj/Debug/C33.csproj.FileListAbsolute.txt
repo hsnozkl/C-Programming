@@ -1,0 +1,10 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C33\C33\bin\Debug\C33.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C33\C33\bin\Debug\C33.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C33\C33\bin\Debug\C33.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C33\C33\obj\Debug\C33.Form1.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C33\C33\obj\Debug\C33.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C33\C33\obj\Debug\C33.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C33\C33\obj\Debug\C33.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C33\C33\obj\Debug\C33.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C33\C33\obj\Debug\C33.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C33\C33\obj\Debug\C33.csproj.AssemblyReference.cache

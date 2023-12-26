@@ -1,0 +1,9 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C34\C34\bin\Debug\C34.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C34\C34\bin\Debug\C34.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C34\C34\bin\Debug\C34.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C34\C34\obj\Debug\C34.Form1.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C34\C34\obj\Debug\C34.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C34\C34\obj\Debug\C34.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C34\C34\obj\Debug\C34.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C34\C34\obj\Debug\C34.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C34\C34\obj\Debug\C34.pdb

@@ -1,0 +1,10 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP1\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP1\OOP1\obj\Debug\OOP1.Form1.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP1\OOP1\obj\Debug\OOP1.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP1\OOP1\obj\Debug\OOP1.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP1\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP1\OOP1\bin\Debug\OOP1.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP1\OOP1\bin\Debug\OOP1.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP1\OOP1\bin\Debug\OOP1.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP1\OOP1\obj\Debug\OOP1.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\OOP1\OOP1\obj\Debug\OOP1.pdb

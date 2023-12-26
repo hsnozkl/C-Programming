@@ -1,0 +1,15 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\MüzikPlayerim\MüzikPlayerim\obj\Debug\MüzikPlayerim.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\MüzikPlayerim\MüzikPlayerim\obj\Debug\Interop.WMPLib.dll
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\MüzikPlayerim\MüzikPlayerim\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\MüzikPlayerim\MüzikPlayerim\obj\Debug\MüzikPlayerim.csproj.ResolveComReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\MüzikPlayerim\MüzikPlayerim\obj\Debug\MüzikPlayerim.Form1.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\MüzikPlayerim\MüzikPlayerim\obj\Debug\MüzikPlayerim.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\MüzikPlayerim\MüzikPlayerim\obj\Debug\MüzikPlayerim.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\MüzikPlayerim\MüzikPlayerim\obj\Debug\MüzikPlayerim.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\MüzikPlayerim\MüzikPlayerim\bin\Debug\MüzikPlayerim.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\MüzikPlayerim\MüzikPlayerim\bin\Debug\MüzikPlayerim.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\MüzikPlayerim\MüzikPlayerim\bin\Debug\MüzikPlayerim.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\MüzikPlayerim\MüzikPlayerim\bin\Debug\Interop.WMPLib.dll
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\MüzikPlayerim\MüzikPlayerim\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\MüzikPlayerim\MüzikPlayerim\obj\Debug\MüzikPlayerim.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\MüzikPlayerim\MüzikPlayerim\obj\Debug\MüzikPlayerim.pdb

@@ -1,0 +1,10 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\DövizUygulama\DövizUygulama\obj\Debug\DövizUygulama.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\DövizUygulama\DövizUygulama\obj\Debug\DövizUygulama.Form1.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\DövizUygulama\DövizUygulama\obj\Debug\DövizUygulama.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\DövizUygulama\DövizUygulama\obj\Debug\DövizUygulama.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\DövizUygulama\DövizUygulama\obj\Debug\DövizUygulama.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\DövizUygulama\DövizUygulama\bin\Debug\DövizUygulama.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\DövizUygulama\DövizUygulama\bin\Debug\DövizUygulama.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\DövizUygulama\DövizUygulama\bin\Debug\DövizUygulama.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\DövizUygulama\DövizUygulama\obj\Debug\DövizUygulama.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\DövizUygulama\DövizUygulama\obj\Debug\DövizUygulama.pdb

@@ -1,0 +1,10 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PaintUygulamam\PaintUygulamam\obj\Debug\PaintUygulamam.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PaintUygulamam\PaintUygulamam\obj\Debug\PaintUygulamam.Form1.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PaintUygulamam\PaintUygulamam\obj\Debug\PaintUygulamam.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PaintUygulamam\PaintUygulamam\obj\Debug\PaintUygulamam.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PaintUygulamam\PaintUygulamam\obj\Debug\PaintUygulamam.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PaintUygulamam\PaintUygulamam\bin\Debug\PaintUygulamam.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PaintUygulamam\PaintUygulamam\bin\Debug\PaintUygulamam.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PaintUygulamam\PaintUygulamam\bin\Debug\PaintUygulamam.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PaintUygulamam\PaintUygulamam\obj\Debug\PaintUygulamam.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PaintUygulamam\PaintUygulamam\obj\Debug\PaintUygulamam.pdb

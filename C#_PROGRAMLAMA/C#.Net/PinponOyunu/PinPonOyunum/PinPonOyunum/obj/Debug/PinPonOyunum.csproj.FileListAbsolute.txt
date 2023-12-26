@@ -1,0 +1,10 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\PinponOyunu\PinPonOyunum\PinPonOyunum\obj\Debug\PinPonOyunum.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\PinponOyunu\PinPonOyunum\PinPonOyunum\obj\Debug\PinPonOyunum.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\PinponOyunu\PinPonOyunum\PinPonOyunum\obj\Debug\PinPonOyunum.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\PinponOyunu\PinPonOyunum\PinPonOyunum\obj\Debug\PinPonOyunum.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\PinponOyunu\PinPonOyunum\PinPonOyunum\bin\Debug\PinPonOyunum.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\PinponOyunu\PinPonOyunum\PinPonOyunum\bin\Debug\PinPonOyunum.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\PinponOyunu\PinPonOyunum\PinPonOyunum\bin\Debug\PinPonOyunum.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\PinponOyunu\PinPonOyunum\PinPonOyunum\obj\Debug\PinPonOyunum.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\PinponOyunu\PinPonOyunum\PinPonOyunum\obj\Debug\PinPonOyunum.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\PinponOyunu\PinPonOyunum\PinPonOyunum\obj\Debug\PinPonOyunum.gameForm.resources

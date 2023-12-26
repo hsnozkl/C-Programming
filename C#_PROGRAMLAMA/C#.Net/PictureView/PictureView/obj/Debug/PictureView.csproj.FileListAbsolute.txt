@@ -1,0 +1,10 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PictureView\PictureView\bin\Debug\PictureView.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PictureView\PictureView\bin\Debug\PictureView.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PictureView\PictureView\bin\Debug\PictureView.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PictureView\PictureView\obj\Debug\PictureView.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PictureView\PictureView\obj\Debug\PictureView.Form1.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PictureView\PictureView\obj\Debug\PictureView.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PictureView\PictureView\obj\Debug\PictureView.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PictureView\PictureView\obj\Debug\PictureView.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PictureView\PictureView\obj\Debug\PictureView.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#.Net\2022\PictureView\PictureView\obj\Debug\PictureView.pdb

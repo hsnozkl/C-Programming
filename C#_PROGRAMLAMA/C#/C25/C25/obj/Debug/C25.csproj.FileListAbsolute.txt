@@ -1,0 +1,7 @@
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C25\C25\bin\Debug\C25.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C25\C25\bin\Debug\C25.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C25\C25\bin\Debug\C25.pdb
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C25\C25\obj\Debug\C25.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C25\C25\obj\Debug\C25.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C25\C25\obj\Debug\C25.exe
+C:\Users\hasan\OneDrive\Masaüstü\C-C#\C#\C25\C25\obj\Debug\C25.pdb
